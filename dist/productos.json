@@ -1,0 +1,36 @@
+[{
+   "id": 1  ,
+    "name" : "potato",
+    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDymjRaS7HkW5GGWl6H8VS-iXXCIHi3MuW2g&usqp=CAU",
+    "precio" : 500 ,
+    "quantity" : 1
+} ,
+{
+    "id" : 2,
+    "name" : "cebolla",
+    "img" :"https://img.freepik.com/foto-gratis/arreglo-angulo-alto-cebollas_23-2148917718.jpg?size=626&ext=jpg&ga=GA1.2.670201206.1689897730&semt=sph",
+    "precio" : 300 ,
+    "quantity" : 1
+
+},
+{
+    "id" : 3,
+    "name" : "zanahoria",
+    "img" : "https://img.freepik.com/fotos-premium/manojo-zanahorias-tapas_888396-1457.jpg?size=626&ext=jpg&ga=GA1.1.670201206.1689897730&semt=ais_ai_generated",
+    "precio" : 600,
+    "quantity" : 1
+},
+{
+    "id" : 4,
+    "name" : "calabaza",
+    "img" :"https://img.freepik.com/foto-gratis/arreglo-verduras-otonales-sobre-tela_23-2148647938.jpg?size=626&ext=jpg&ga=GA1.1.670201206.1689897730&semt=ais",
+    "precio" : 600,
+    "quantity" : 1
+},
+{
+    "id" : 5,
+    "name" : "tomates",
+    "img" :"https://img.freepik.com/foto-gratis/tomates-maduros-gotas-agua-como-vista-lateral-fondo_141793-3389.jpg?size=626&ext=jpg&ga=GA1.1.670201206.1689897730&semt=sph" ,
+    "precio" : 100 ,
+    "quantity" : 1
+    }]
